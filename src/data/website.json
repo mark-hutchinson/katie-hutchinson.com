@@ -1,0 +1,53 @@
+{
+  "welcome": {
+    "title": "Welcome to Katie Hutchinson Consulting",
+    "text": "Hey there! At Katie Hutchinson Consulting, we're all about making things happen. I have 15 years of experience in the public sector. I aim to bring a fresh, simplistic model to the world of consulting. I’ve got a soft spot for small non-profits and sports organizations – those making big impacts in their communities. We want to wade through the bullshit and help you make your org the best it can be. No gimmicks, no hacks, just proven methods of effectiveness."
+  },
+  "mission" : {
+    "title": "Our Mission",
+    "text": "Empowering Small Non-Profits and Sports Squads who want to make their organization the best place to work.\nKatie Hutchinson Consulting is on a mission to help small non-profits and sports orgs thrive! I get the unique challenges you face, and we're here to shake things up with tailored solutions for building killer teams, coaching leaders to be transformative within their org, and making those organizational changes that seem too big to take on alone."
+  },
+  "services":
+  {
+    "title": "Services",
+    "items": [
+      {
+        "subtitle": "Leadership and Team Kickstart",
+        "text": "Ready to take your team to the next level? We specialize in coordinating and managing squads, creating dynamic systems that balance power accountability and autonomy. Our secret sauce? Turning your workplace into a person first, strengths based powerhouse. I can help you design workflows, meeting structures and powe dynamics in your work place that help you get your work done and help your employees thrive and know their worth with your organizations. As a coach we can support you in your tribulations as a leader and provide you valuable insight in learning into directing and motivating excellent teams who want to come to work. "
+      },
+      {
+        "subtitle": "Game-Changing Program Development",
+        "text": "Get ready to score big! Whether you're into sports, arts, culture, or saving the planet, we lead the charge with strategic planning that turns dreams into reality. No boring stuff – just impactful direction that matches your capacity"
+      },
+      {
+        "subtitle": "Foundations of Slick Operations",
+        "text": "From no-nonsense budgeting to shaking up your communications game, we've got your back. Let's tell your story in a way that not only makes sense but rocks the socks off your stakeholders. "
+      },
+      {
+        "subtitle": "Maximizing Impact: Partnering with Charities for Sustainable Results",
+        "text": "Are you a company or foundation looking to make a difference? we understand the importance of corporate social responsibility and the power of strategic partnerships with charities. We specialize in helping companies and foundations navigate the landscape of philanthropy to ensure that every dollar spent achieves the maximum impact while aligning with their organizational goals. Navigating the complex world of charity partnerships can be daunting, but with our expert guidance, you can rest assured that your resources are being used wisely. Our team brings years of experience in fundraising and impact, leveraging our extensive network and insights to identify reputable charities and initiatives that align with your values and objectives. From due diligence and impact assessment to monitoring and evaluation, we provide the support you need at every stage of the partnership process.\nReady to make a difference? Get in touch with us today to learn more about how we can help you maximize your philanthropic efforts."
+      }
+    ]
+  },
+  "bio" : {
+    "title" : "Our Founder",
+    "subtitle": "Katie Hutchinson, Founder",
+    "text": "Yep, that's me! A confident leader with a background in education, sports management, and education in leadership and organizational behaviour. More importantly, I have a lot of passion for making this thing we all have to (work) inspiring, energizing and maybe even fun!  Building teams that kick butt and want to come to work, coaching leaders like a pro, and helping you make that change happen. The difference with me is I will promise I will not provide gimmicks, tag lines, weird inspirational quotes or videos.",
+    "image": {
+      "src" : "/img/katie.jpg",
+      "alt" : "Katie Hutchinson"
+    }
+  },
+  "testimonials" : {
+    "title" : "Squad Success Stories",
+    "items": [
+      {
+        "subtitle": "Vibe Arts",
+        "text": "In 2018 I was brought on as VIBE Arts’ Executive Director. The organization was plagued with high turnover, low sustainability, low employee satisfaction and operations systems that did not support growth. Over the next 2 years I hired a stable dynamic team, changed job descriptions to best suit their strengths, re-designed the organizational structure to level out power dynamics, built robust policies and procedures to enhance employee satisfaction "
+      }
+    ]
+  },
+  "contact" : {
+    "title": "Get in Touch"
+  }
+}
