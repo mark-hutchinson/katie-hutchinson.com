@@ -86,6 +86,11 @@ export function ContactForm({data}) {
                   </Form>
               </Col>
           </Row>
+
+
+          <Container className="contact-links">
+            <a href="mailto:katie@katie-hutchinson.com"><img src="img/email.png" padding="10px" height="50" alt="Email Katie"/></a><a href="https://www.linkedin.com/in/katie-hutchinson-9666a388/"><img src="img/linkedin.png" height="50" alt="Email Katie"/></a>
+          </Container>
       </Container>
     );
 }

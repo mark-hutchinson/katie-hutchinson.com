@@ -10,6 +10,7 @@ import {NavBar} from "./components/NavBar";
 import {ContentItems} from "./components/ContentItems";
 import {ContentItem} from "./components/ContentItem";
 import {ContactForm} from "./components/ContactForm";
+import {FullWidthCarousel} from "./components/FullWidthCarousel";
 
 
 function App() {
@@ -18,7 +19,7 @@ function App() {
     <div className="App">
         <NavBar items={[
           {ref: "welcome", label: "Welcome"},
-          {ref:"mission", label: "Mission"},
+          {ref:"about", label: "About"},
           {ref:"services", label: "Services"},
           {ref: "bio", label: "Bio"},
           {ref: "testimonials", label: "Success Stories"},
@@ -27,8 +28,10 @@ function App() {
         <Section id="welcome">
           <Welcome data={data.welcome}/>
         </Section>
-      <Section id="mission">
+      <Section id="about">
         <ContentItem data={data.mission}/>
+        <br/><br/>
+        <FullWidthCarousel data={data.carousel}/>
       </Section>
       <Section id="services">
         <ContentItems data={data.services}/>

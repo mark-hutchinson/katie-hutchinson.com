@@ -7,6 +7,43 @@
     "title": "Our Mission",
     "text": "Empowering Small Non-Profits and Sports Squads who want to make their organization the best place to work.\nKatie Hutchinson Consulting is on a mission to help small non-profits and sports orgs thrive! I get the unique challenges you face, and we're here to shake things up with tailored solutions for building killer teams, coaching leaders to be transformative within their org, and making those organizational changes that seem too big to take on alone."
   },
+  "carousel": {
+    "title": "In the News",
+    "items": [
+      {
+        "image": {
+          "src": "/img/carousel/leadthrusports.png",
+          "alt": "Lead Thru Sport Interview"
+        },
+        "caption": "Lead Thru Sport Interview",
+        "link": "https://leadthrusport.ca/52strong/week13/"
+      },
+      {
+        "image" : {
+          "src": "/img/carousel/everyday-talent.png",
+          "alt": "Everyday Talent Podcast"
+        },
+        "caption": "Everyday Talent Podcast",
+        "link": "https://www.xiebetty.com/podcast/32"
+      },
+      {
+        "image": {
+          "src": "/img/carousel/coach-katie.jpeg",
+          "alt": "Coach Katie"
+        },
+        "caption": "Passin Dimes Podcast: The Katie Hutchinson Show EP. 301",
+        "link": "https://www.podbean.com/media/share/pb-g4kr2-1598d81?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share"
+      },
+      {
+        "image": {
+          "src": "/img/carousel/vibe.png",
+          "alt": "Vibe Arts Team"
+        },
+        "caption": "Now Toronto Article on Vibe Arts introducing 4 day work week",
+        "link": "https://nowtoronto.com/news/toronto-company-starting-4-day-work-week-next-month-after-successful-pilot-project/"
+      }
+    ]
+  },
   "services":
   {
     "title": "Services",
@@ -21,7 +58,7 @@
       },
       {
         "subtitle": "Foundations of Slick Operations",
-        "text": "From no-nonsense budgeting to shaking up your communications game, we've got your back. Let's tell your story in a way that not only makes sense but rocks the socks off your stakeholders. "
+        "text": "From no-nonsense budgeting to shaking up your communications game, we've got your back. We set up systems that help you do the work that matters and keeps your team on track to achieving their mission driven goals.  We want you to put your effort into the important work, not the administration."
       },
       {
         "subtitle": "Maximizing Impact: Partnering with Charities for Sustainable Results",
@@ -31,8 +68,8 @@
   },
   "bio" : {
     "title" : "Our Founder",
-    "subtitle": "Katie Hutchinson, Founder",
-    "text": "Yep, that's me! A confident leader with a background in education, sports management, and education in leadership and organizational behaviour. More importantly, I have a lot of passion for making this thing we all have to (work) inspiring, energizing and maybe even fun!  Building teams that kick butt and want to come to work, coaching leaders like a pro, and helping you make that change happen. The difference with me is I will promise I will not provide gimmicks, tag lines, weird inspirational quotes or videos.",
+    "subtitle": "Katie Hutchinson",
+    "text": "Yep, that's me! A confident leader with a background in education, sports management, and education in leadership and organizational behaviour. More importantly, I have a lot of passion for making this thing we all have to do (work) inspiring, energizing and maybe even fun!  Building teams that kick butt and want to come to work, coaching leaders like a pro, and helping you make that change happen. The difference with me is I will promise I will not provide gimmicks, tag lines, weird inspirational quotes or videos.",
     "image": {
       "src" : "/img/katie.jpg",
       "alt" : "Katie Hutchinson"
@@ -44,6 +81,10 @@
       {
         "subtitle": "Vibe Arts",
         "text": "In 2018 I was brought on as VIBE Arts’ Executive Director. The organization was plagued with high turnover, low sustainability, low employee satisfaction and operations systems that did not support growth. Over the next 2 years I hired a stable dynamic team, changed job descriptions to best suit their strengths, re-designed the organizational structure to level out power dynamics, built robust policies and procedures to enhance employee satisfaction "
+      },
+      {
+        "subtitle": "Altitude Volleyball Club",
+        "text": " I had the pleasure of collaborating with Altitude Volleyball Club, a community-focused endeavor from its inception. Beyond simply naming the club, my role delved deep into shaping its identity as they best place to play in Collingwood. Together, we developed strategies to engage with the new players, design engaging entry points for new athletes and create opportunities for involvement.\n Altitude Volleyball Club is slowly becoming more than just a sports club—its becoming a cornerstone of the community through Beach and Indoor programs.  As a consultant, I take pride in helping clubs like Altitude create lasting impacts beyond the scoreboard. <a href=\"https://www.altitudevolleyballcollingwood.com/\">www.altitudevolleyballcollingwood.com</a>"
       }
     ]
   },
